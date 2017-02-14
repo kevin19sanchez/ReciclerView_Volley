@@ -1,0 +1,22 @@
+{
+  "Peliculas":[{
+                "nombre":"Capitan America",
+                "duracion": 2h 27m
+                },
+                {
+                "nombre":"Avengers",
+                "duracion" 2h 22m:  
+                },
+                {
+                "nombre":"Doctor Strange",
+                "duracion": 2h 55m 
+                },
+                {
+                "nombre":"Thor",
+                "duracion": 1h 55m 
+                },
+                {
+                "nombre":"Ant-Man",
+                "duracion":  1h 58m
+                }]
+}
