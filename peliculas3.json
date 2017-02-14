@@ -1,0 +1,31 @@
+	[{
+		"nombre":"Capitan America",
+		"duracion":" 2h 55m",
+		"img_peli":"http://www.elseptimoarte.net/carteles/442/capitan_america_10175.jpg",
+		"anio": 2015
+		},
+		{
+		"nombre":"Ant-Man",
+		"duracion":"1h 44m",
+		"img_peli":"http://www.tfw2005.com/boards/attachments/ant-man-jpg.27308536/",
+		"anio": 2016
+		},
+		{
+		"nombre":"Thor: Un mundo oscuro",
+		"duracion":"1h 45m",
+		"img_peli":"http://nolomires.com/static/img_mediana/153_thor-2011.jpg",
+		"anio": 2012
+		},
+		{
+		"nombre":"Deapool",
+		"duracion":"1h 55m",
+		"img_peli":"http://1.bp.blogspot.com/-vfspCYMw0ZA/VdKuCvhRUwI/AAAAAAAAW4c/zcN2ydv2ePw/s1600/deadpool.jpg",
+		"anio": 2016
+		},
+		{
+		"nombre":"Avengers",
+		"duracion":"2h 48m",
+		"img_peli":"https://jonstanime.files.wordpress.com/2012/09/theavengersdvdripinglesmassubtitulos2012caratula1.jpg",
+		"anio": 20012
+		}
+		]
